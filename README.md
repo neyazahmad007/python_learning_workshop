@@ -12,3 +12,9 @@
 
 > pip install jupyter
 
+#### Launch jupyter notebook
+- Open terminal/cmd.
+- Enter the startup folder by changing folder/directory. cd /some_folder_name.
+- Type 'jupyter notebook' to launch the Jupyter Notebook App The notebook interface will appear
+> jupyter notebook
+
