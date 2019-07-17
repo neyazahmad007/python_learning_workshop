@@ -1,9 +1,11 @@
 # Python 3 learing workshop
-#### Download the latest version for Windows/Linux/UNIX/Mac OS X
-- https://www.python.org/downloads/
-#### Run the Installer
 
-##### To Check Python version
+### Setup Python
+#### 1. Download the latest version for Windows/Linux/UNIX/Mac OS X
+- https://www.python.org/downloads/
+#### 2. Run the Installer
+
+##### 3. To Check Python version
 > python --version
 
 ------------------------
