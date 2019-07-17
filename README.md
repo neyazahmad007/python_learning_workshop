@@ -4,7 +4,7 @@
 #### Run the Installer
 
 ##### To Check Python version
-> python3 --version
+> python --version
 
 ------------------------
 #### Installing Jupyter Notebook with pip
