@@ -1,4 +1,4 @@
-# Python 3 learing workshop
+# Python 3 learning workshop
 
 ### Setup Python
 #### 1. Download the latest version for Windows/Linux/UNIX/Mac OS X
