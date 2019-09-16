@@ -22,27 +22,26 @@
 
 ## Table of contents
 - Day 1: Python basic<br>   
-   - https://github.com/neyazahmad007/python_learning_workshop/blob/master/Basic_Overview_1.ipynb<br>
-   - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Basic_Overview_1.ipynb" target="_blank">Basic_Overview_1.ipynb</a>
-   - Python_String_2.ipynb<br>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Basic_Overview_1.ipynb" target="_blank">Basic_Overview_1.ipynb</a><br>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Python_String_2.ipynb" target="_blank">Python_String_2.ipynb</a>
 - Day 2: Control Structures and List<br>
-  - Control_Structures_if_3.ipynb<br>
-  - Data_Structure_List_4.ipynb<br>
-  - Control_Structures_Loop5.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Control_Structures_if_3.ipynb" target="_blank">Control_Structures_if_3.ipynb</a>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Data_Structure_List_4.ipynb" target="_blank">Data_Structure_List_4.ipynb</a>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Control_Structures_Loop5.ipynb" target="_blank">Control_Structures_Loop5.ipynb</a>
 - Day 3: Function and Module<br>
-  - Functions_Modules6.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Functions_Modules6.ipynb" target="_blank">Functions_Modules6.ipynb</a>
 - Day 4: Exception Handling<br>
-  - Exception_Handling_7.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Exception_Handling_7.ipynb" target="_blank">Exception_Handling_7.ipynb</a>
 - Day 5: Reading and Writing Files<br>
-  - Reading_Writing_Files_8.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Reading_Writing_Files_8.ipynb" target="_blank">Reading_Writing_Files_8.ipynb</a>
 - Day 6: Dict, Tuple & List comprehensions<br>
-  - Data_Structure_Dict_9.ipynb<br>
-  - Data_Structure_Tuple_10.ipynb<br>
-  - List_Comprehensions_11.ipynb<br>
-  - Data_Structure_Sets_12.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Data_Structure_Dict_9.ipynb" target="_blank">Data_Structure_Dict_9.ipynb</a>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Data_Structure_Tuple_10.ipynb" target="_blank">Data_Structure_Tuple_10.ipynb</a>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/List_Comprehensions_11.ipynb" target="_blank">List_Comprehensions_11.ipynb</a>
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Data_Structure_Sets_12.ipynb" target="_blank">Data_Structure_Sets_12.ipynb</a>
 - Day 7: Functional Programming - lambda, map, filter<br>
-  - Functional_Programming_lambda-map-filter_13.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Functional_Programming_lambda-map-filter_13.ipynb" target="_blank">Functional_Programming_lambda-map-filter_13.ipynb</a>
 - Day 8: Functional Programming - Generators and Decorators<br>
-  - Functional_Programming_Generators_Decorators_14.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Functional_Programming_Generators_Decorators_14.ipynb" target="_blank">Functional_Programming_Generators_Decorators_14.ipynb</a>
 - Day 9: Object-Oriented Programming - Object, Method and Class<br>
-  - Object-Oriented_Programming_15.ipynb
+  - <a href="https://github.com/neyazahmad007/python_learning_workshop/blob/master/Object-Oriented_Programming_15.ipynb" target="_blank">Object-Oriented_Programming_15.ipynb</a>
