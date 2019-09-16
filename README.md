@@ -22,7 +22,7 @@
 
 ## Table of contents
 - Day 1: Python basic<br>   
-   - Basic_Overview_1.ipynb<br>
+   - https://github.com/neyazahmad007/python_learning_workshop/blob/master/Basic_Overview_1.ipynb<br>
    - Python_String_2.ipynb<br>
 - Day 2: Control Structures and List<br>
   - Control_Structures_if_3.ipynb<br>
