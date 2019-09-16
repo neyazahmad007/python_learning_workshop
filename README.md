@@ -21,7 +21,7 @@
 > jupyter notebook
 
 ## Table of contents
-- Day 1: Python basic workshop<br>   
+- Day 1: Python basic<br>   
    - Basic_Overview_1.ipynb<br>
    - Python_String_2.ipynb<br>
 - Day 2: Control Structures and List<br>
@@ -34,7 +34,7 @@
   - Exception_Handling_7.ipynb
 - Day 5: Reading and Writing Files<br>
   - Reading_Writing_Files_8.ipynb
-- Day 6: Dict, tuple & List comprehensions<br>
+- Day 6: Dict, Tuple & List comprehensions<br>
   - Data_Structure_Dict_9.ipynb<br>
   - Data_Structure_Tuple_10.ipynb<br>
   - List_Comprehensions_11.ipynb<br>
